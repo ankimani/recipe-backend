@@ -27,8 +27,8 @@ DELETE  /api/recipes/:id  — deletes the recipe with the provided
 ### Installing
 
 this app is a backend project.
-crone this repo:https://github.com/ankimani/recipe-backend.git backend
-$ git clone 
+crone this repo: $ git clone https://github.com/ankimani/recipe-backend.git backend
+
 
 ```
 then inside the backend folder, do npm install
